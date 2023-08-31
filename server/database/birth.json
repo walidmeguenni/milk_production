@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cowId": "3",
+    "birthDate": "2023-08-29",
+    "breed": "Holstein"
+  },
+  {
+    "id": 2,
+    "cowId": "2",
+    "birthDate": "2023-08-31",
+    "breed": "Holstein"
+  },
+  {
+    "id": 3,
+    "cowId": "1",
+    "birthDate": "2023-08-31",
+    "breed": "Holstein",
+    "userId": "b0a23307-23c9-4c31-883d-6aecbe6fda13"
+  },
+  {
+    "id": 4,
+    "cowId": "1",
+    "birthDate": "2023-08-05",
+    "breed": "Holstein",
+    "userId": "a33a6817-9792-4e39-9cb9-29e12464fa27"
+  },
+  {
+    "id": 5,
+    "cowId": "1",
+    "birthDate": "2023-08-31",
+    "breed": "Holstein",
+    "userId": "a33a6817-9792-4e39-9cb9-29e12464fa27"
+  },
+  {
+    "id": 6,
+    "cowId": "1",
+    "birthDate": "2023-08-12",
+    "breed": "Holstein",
+    "userId": "a33a6817-9792-4e39-9cb9-29e12464fa27"
+  }
+]

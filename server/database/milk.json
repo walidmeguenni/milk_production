@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "today": "2023-08-28",
+    "amountMilk": "10001"
+  },
+  {
+    "id": 2,
+    "today": "2023-08-11",
+    "amountMilk": "120",
+    "userId": "b0a23307-23c9-4c31-883d-6aecbe6fda13"
+  },
+  {
+    "id": 4,
+    "today": "2023-08-10",
+    "amountMilk": "10",
+    "userId": "a33a6817-9792-4e39-9cb9-29e12464fa27"
+  },
+  {
+    "id": 5,
+    "today": "2023-09-01",
+    "amountMilk": "120",
+    "userId": "a33a6817-9792-4e39-9cb9-29e12464fa27"
+  },
+  {
+    "id": 6,
+    "today": "2023-09-01",
+    "amountMilk": "150",
+    "userId": "a33a6817-9792-4e39-9cb9-29e12464fa27"
+  }
+]

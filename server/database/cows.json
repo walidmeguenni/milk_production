@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1",
+    "entryDate": "2019-02-13",
+    "breed": "Montbliard",
+    "userId": "b0a23307-23c9-4c31-883d-6aecbe6fda13"
+  },
+  {
+    "id": "2",
+    "entryDate": "2023-08-17",
+    "breed": "Montbliard",
+    "userId": "b0a23307-23c9-4c31-883d-6aecbe6fda13"
+  },
+  {
+    "id": 3,
+    "entryDate": "2023-08-18",
+    "breed": "Holstein"
+  },
+  {
+    "id": 4,
+    "entryDate": "2023-08-24",
+    "breed": "Holstein"
+  },
+  {
+    "id": 11,
+    "entryDate": "2023-08-26",
+    "breed": "Montbliard",
+    "userId": "a33a6817-9792-4e39-9cb9-29e12464fa27"
+  },
+  {
+    "id": 12,
+    "entryDate": "2023-08-25",
+    "breed": "Montbliard",
+    "userId": "a33a6817-9792-4e39-9cb9-29e12464fa27"
+  },
+  {
+    "id": 13,
+    "entryDate": "2023-09-01",
+    "breed": "Montbliard",
+    "userId": "a33a6817-9792-4e39-9cb9-29e12464fa27"
+  },
+  {
+    "id": 11,
+    "entryDate": "2023-09-01",
+    "breed": "Holstein",
+    "userId": "a33a6817-9792-4e39-9cb9-29e12464fa27"
+  }
+]

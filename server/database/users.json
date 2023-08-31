@@ -1,0 +1,14 @@
+[
+  {
+    "id": "a33a6817-9792-4e39-9cb9-29e12464fa27",
+    "fullName": "peter smith",
+    "email": "test@gmail.com",
+    "password": "$2b$12$0hozK9tjefZO/ozcnh7.Vuq5WVl8dCh11V4Nfvfos25vFeGEDpMV."
+  },
+  {
+    "id": "b0a23307-23c9-4c31-883d-6aecbe6fda13",
+    "fullName": "Meguenni walid",
+    "email": "hello@gmail.com",
+    "password": "$2b$12$KLmlBNqhz7vEpr/BO9qf2OgPIKqEICuyaSky.X15fIh3BCx1jGoQW"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "examinationDay": "2023-08-25",
+    "disease": "Fever"
+  },
+  {
+    "id": 2,
+    "examinationDay": "2023-08-19",
+    "disease": "Fever",
+    "userId": "b0a23307-23c9-4c31-883d-6aecbe6fda13"
+  },
+  {
+    "id": 3,
+    "examinationDay": "2023-08-10",
+    "disease": "sick",
+    "userId": "a33a6817-9792-4e39-9cb9-29e12464fa27"
+  }
+]

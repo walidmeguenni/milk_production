@@ -56,5 +56,5 @@ app.use((error, req, res, next) => {
     },
   });
 });
-
+console.log("hello world")
 module.exports = app;
